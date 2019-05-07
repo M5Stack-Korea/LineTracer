@@ -2,7 +2,7 @@ M5STACK을 이용한 라인 트레이스(Line Tracer) 만들기
 
 M5STACK은 기존 Arduino와 유사한 Open Hardware Platform에서 외장 Case와 독특한 Stack Up연결 구조를 가지며,  외부 Color LCD와 3개의 button 스위치를 이용해서 
 별도의 Shield나 확장 보드 없이 독립적인 다양한 Project를 수행할 수 있습니다.
-![M5STACK](https://www.wiznetian.com/wp-content/uploads/2019/04/U1.png "M5STACK")
+![M5STACK](https://www.wiznetian.com/wp-content/uploads/2019/04/U1.png)
 사진 출처 https://cdn.instructables.com/F9V/EER4/IWE4IOVN/F9VEER4IWE4IOVN.LARGE.jpg?auto=webp&width=642&crop=3:2
 
 먼저 라인트레이스를 제작하기 위해서는 M5STACK의 Basic 모듈을 사용합니다. 아래 그림을 보시면 전체 Stack Up 되어 있는 상태에서 
